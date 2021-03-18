@@ -1,2 +1,2 @@
 # blog-api
-Mern Stack blog
+Mern Stack blog rest api
